@@ -4,3 +4,4 @@ I am tring to make a txt file quickly from the terminal.
 
 Make changes in the second branch and let branches conflict with each other
 
+Here is the work copy branch 2.
