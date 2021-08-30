@@ -6,4 +6,4 @@ I am tring to make a txt file quickly from the terminal.
 
 
 
-Start again from branch wcopy1_br.
+1- Start again from branch wcopy1_br.
